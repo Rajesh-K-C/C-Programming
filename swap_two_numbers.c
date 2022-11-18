@@ -3,7 +3,6 @@
 int x = 10, y = 5, tmp;
 int main()
 {
-    printf("The Program for Swap two Numbers");
     printf("\nx = %d\ny = %d", x, y);
     tmp = x;
     x = y;
