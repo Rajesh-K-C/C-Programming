@@ -1,8 +1,7 @@
 #include <stdio.h>
 // Program for Swap two Numbers Using Temporary Variable
 
-int main()
-{
+int main(){
     int x = 10, y = 5, tmp;
     printf("x = %d\ny = %d", x, y);
     tmp = x;
